@@ -26,8 +26,6 @@
     python main.py
     ```
 
-2. [Kullanım Talimatları ve Kontroller]
-
 ## Örnek Görüntüler
 
 
